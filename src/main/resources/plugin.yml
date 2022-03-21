@@ -1,0 +1,10 @@
+name: FirstPlugin3
+version: '${project.version}'
+main: firstplugin3.firstplugin3.FirstPlugin3
+api-version: 1.16
+description: FirstPlugin3
+
+commands:
+  mystats:
+    description: View the player stats.
+
